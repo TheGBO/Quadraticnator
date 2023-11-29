@@ -1,0 +1,3 @@
+/home/nullcyan1010/ProgrammingWorkspace/Quadraticnator/build/CMakeFiles/quadraticnator.dir
+/home/nullcyan1010/ProgrammingWorkspace/Quadraticnator/build/CMakeFiles/edit_cache.dir
+/home/nullcyan1010/ProgrammingWorkspace/Quadraticnator/build/CMakeFiles/rebuild_cache.dir

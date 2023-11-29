@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.25.1)
+project(quadraticnator)
+set(CMAKE_C_STANDARD 99)
+add_executable(quadraticnator ./src/main.c)
+target_link_libraries(quadraticnator m)

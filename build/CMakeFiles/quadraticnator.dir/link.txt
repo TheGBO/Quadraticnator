@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/quadraticnator.dir/src/main.c.o -o quadraticnator  -lm 
